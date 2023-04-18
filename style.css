@@ -229,7 +229,7 @@ span {
   width: 40%;
 }
 .vue-bar {
-  width: 5%;
+  width: 15%;
 }
 .java-bar {
   width: 5%;
@@ -248,6 +248,9 @@ span {
 }
 .git-bar {
   width: 30%;
+}
+.tailwind-bar {
+  width: 15%;
 }
 .services-content {
   display: grid;
